@@ -51,10 +51,10 @@ Error generating stack: `+n.message+`
     py-6 text-black backdrop-blur-md md:justify-evenly`,children:[z.jsx("a",{href:"#home",className:`bg-gradient-to-r from-orange-500 to-red-500 bg-clip-text text-transparent opacity-80 \r
       text-3xl font-semibold transition-all duration-300\r
       hover:opacity-100`,children:"Heixaly"}),z.jsxs("ul",{className:"hidden md:flex gap-10",children:[z.jsx("a",{href:"#home",className:`cursor-pointer opacity-70\r
-        transition-all duration-300 hover:opacity-100`,children:z.jsx("li",{children:"Home"})}),z.jsx("a",{href:"#tech",className:`cursor-pointer opacity-70\r
-        transition-all duration-300 hover:opacity-100`,children:z.jsx("li",{children:"Tech"})}),z.jsx("a",{href:"#project",className:`cursor-pointer opacity-70\r
-        transition-all duration-300 hover:opacity-100`,children:z.jsx("li",{children:"Projects"})}),z.jsx("a",{href:"#contact",className:`cursor-pointer opacity-70\r
-        transition-all duration-300 hover:opacity-100`,children:z.jsx("li",{children:"Contact"})})]}),z.jsxs("ul",{className:"hidden md:flex gap-5",children:[z.jsx("li",{className:`cursor-pointer text-xl opacity-70\r
+        transition-all duration-300 hover:text-orange-500 hover:opacity-100`,children:z.jsx("li",{children:"Home"})}),z.jsx("a",{href:"#tech",className:`cursor-pointer opacity-70\r
+        transition-all duration-300 hover:text-orange-500 hover:opacity-100`,children:z.jsx("li",{children:"Tech"})}),z.jsx("a",{href:"#project",className:`cursor-pointer opacity-70\r
+        transition-all duration-300 hover:text-orange-500 hover:opacity-100`,children:z.jsx("li",{children:"Projects"})}),z.jsx("a",{href:"#contact",className:`cursor-pointer opacity-70\r
+        transition-all duration-300 hover:text-orange-500 hover:opacity-100`,children:z.jsx("li",{children:"Contact"})})]}),z.jsxs("ul",{className:"hidden md:flex gap-5",children:[z.jsx("li",{className:`cursor-pointer text-xl opacity-70\r
         transition-all duration-300 hover:text-pink-500\r
         hover:opacity-100`,children:z.jsx("a",{href:"https://www.facebook.com/heizalee.ibiaz/",target:"_blank",rel:"noopener noreferrer",children:z.jsx(G0,{})})}),z.jsx("li",{className:`cursor-pointer text-xl opacity-70\r
         transition-all duration-300 hover:text-pink-500\r
